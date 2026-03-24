@@ -20,4 +20,4 @@
 - Acts of kindness and informal coaching at skateparks create supportive social networks.
 - Feeling accepted in a skate community can provide a strong sense of belonging.
 
-[Back to Home](index.md) · [Tutorial](tutorial.md) · [Works Cited](works-cited.md)
+[Back to Home](README.md) · [Tutorial](tutorial.md) · [Works Cited](works-cited.md)

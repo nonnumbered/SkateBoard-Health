@@ -1,5 +1,4 @@
 
-# Skateboarding & Health
 
 
 - Go to the [Tutorial](tutorial.md)
